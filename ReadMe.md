@@ -8,7 +8,7 @@ A tool by Amlal EL Mahrouss to build libraries and programs.
 
 ## Steps (makefile):
 
-- Run make `build-btb-core` and `build-btb`.
+- Run make `build-btb-windows` or `build-btb` for POSIX.
 
 ## Steps (btb):
 
